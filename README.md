@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- SUGH PULA MATA CURVA
+- francesco
 
 <!---
 daniele-di-benedetto/daniele-di-benedetto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
