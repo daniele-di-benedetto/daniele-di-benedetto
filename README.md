@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-SUGH PULA MATA CURVA
+
+- SUGH PULA MATA CURVA
 
 <!---
 daniele-di-benedetto/daniele-di-benedetto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
